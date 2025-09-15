@@ -1,4 +1,4 @@
-#Schrödinger's Cat Meme Generator - HTML + JS
+# Schrödinger's Cat Meme Generator - HTML + JS 🐈/🪦
 
 It's a simple meme generator built using a single HTML file that contains all the necessary code (including JavaScript) to run independently in the browser.
 
